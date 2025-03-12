@@ -24,16 +24,24 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             
-          color_snake: "#6E45E2"        
-          color_dots: "#24292e,#1B1F23,#8B949E,#6E45E2,#7F54EC" 
+          # Snake animation configuration
+          color_snake: "#6E45E2"        # Purple snake color matching your theme
+          color_dots: "#24292e,#1B1F23,#8B949E,#6E45E2,#7F54EC,#A78BFA,#8B5CF6,#7C3AED"  # More color variations for dots
           
-          grid_layout: compact    
-          grid_size: 15        
-          grid_area: 80x20      
+          # Grid configuration
+          grid_layout: compact    # More compact layout
+          grid_size: 12          # Slightly smaller grid for more dots
+          grid_area: 100x25      # Larger area for more dots
           
-          speed: 5             
-          animation_length: 4   
+          # Animation settings
+          speed: 4               # Slightly slower for better visualization
+          animation_length: 5    # Longer animation sequence
           
+          # Contribution settings
+          max_contrib: 12        # Increase maximum contribution count
+          min_contrib: 1         # Ensure minimum contributions are shown
+          
+          # Dark mode support
           svg_out_path: dist/snake.svg
           svg_out_path_dark: dist/snake-dark.svg
 

@@ -54,7 +54,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kronosdophp/kronosdophp/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kronosdophp/kronosdophp/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/kronosdophp/kronosdophp/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/kronosdophp/kronosdophp/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
 

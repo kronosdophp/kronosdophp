@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kronosdophp&color=6E45E2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dxddyxs&color=6E45E2&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kronosdophp&show_icons=true&count_private=true&hide_border=true&title_color=6E45E2&icon_color=6E45E2&text_color=c9d1d9&bg_color=0d1117" alt="Kronos's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kronosdophp&hide_border=true&theme=dark&background=0d1117&stroke=6E45E2&ring=6E45E2&fire=6E45E2&currStreakLabel=6E45E2" alt="GitHub Streak Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dxddyxs&show_icons=true&count_private=true&hide_border=true&title_color=6E45E2&icon_color=6E45E2&text_color=c9d1d9&bg_color=0d1117" alt="Kronos's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=dxddyxs&hide_border=true&theme=dark&background=0d1117&stroke=6E45E2&ring=6E45E2&fire=6E45E2&currStreakLabel=6E45E2" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
   <a href="https://discord.com/channels/@me/1346254846944350269" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://t.me/kronosdophp" target="_blank">
+  <a href="https://t.me/dxddyxs" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
@@ -39,22 +39,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kronosdophp&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=6E45E2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxddyxs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=6E45E2" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kronosdophp&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dxddyxs&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kronosdophp/kronosdophp/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kronosdophp/kronosdophp/output/snake.svg" />
-<img src="https://raw.githubusercontent.com/kronosdophp/kronosdophp/output/snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
 

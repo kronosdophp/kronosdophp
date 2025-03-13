@@ -26,7 +26,7 @@
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://discord.com/channels/@me/1346254846944350269" target="_blank">
+  <a href="https://discordapp.com/users/595659234348367876" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://t.me/kronosdophp" target="_blank">

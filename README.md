@@ -1,6 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E45E2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kronos+👋;Full-Stack+Developer+🚀;From+Brazil+to+the+World+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=6E45E2&center=true&vCenter=true&width=500&height=60&lines=👋+Hi+there!+I'm+Kronos;🚀+Full-Stack+Developer;💻+From+Brazil+to+the+World" alt="Typing SVG" />
 </div>
+
+<style>
+  div {
+    background: linear-gradient(135deg, #6E45E2, #88D3CE);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kronosdophp&color=6E45E2&style=for-the-badge" alt="Profile Views" />

@@ -15,9 +15,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+
     <img width="100%" height="200px" src="https://streak-stats.demolab.com?user=kronosdophp&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6E45E2&ring=6E45E2&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=6E45E2&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=6E45E2&excludeDaysLabel=6E45E2" alt="GitHub Streak Stats"/>
-  </a>
+ 
 </div>
 
 <div align="center">

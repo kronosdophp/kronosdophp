@@ -15,8 +15,14 @@
 <br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kronosdophp&show_icons=true&count_private=true&hide_border=true&title_color=6E45E2&icon_color=6E45E2&text_color=c9d1d9&bg_color=0d1117" alt="Kronos's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kronosdophp&hide_border=true&theme=dark&background=0d1117&stroke=6E45E2&ring=6E45E2&fire=6E45E2&currStreakLabel=6E45E2" alt="GitHub Streak Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img width="100%" height="200px" src="https://streak-stats.demolab.com?user=kronosdophp&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6E45E2&ring=6E45E2&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=6E45E2&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=6E45E2&excludeDaysLabel=6E45E2" alt="GitHub Streak Stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kronosdophp&show_icons=true&count_private=true&hide_border=true&title_color=6E45E2&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0d1117" alt="Kronos's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kronosdophp&layout=compact&hide_border=true&title_color=6E45E2&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <br/>

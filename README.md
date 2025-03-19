@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=6E45E2&center=true&vCenter=true&width=500&height=60&lines=👋+Hi+there!+I'm+Kronos;🚀+Full-Stack+Developer;💻+From+Brazil+to+the+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=6E45E2&center=true&vCenter=true&width=500&height=60&lines=👋+Hi+there!+I'm+Kronos;🛡️+Cybersecurity+Specialist;🔍+Reverse+Engineer;🌐+From+Brazil+to+the+World" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-Love-%23FF69B4?style=for-the-badge" alt="Made with Love" />
-  <img src="https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=csharp" alt="C# Badge" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=security" alt="Cybersecurity Badge" />
+  <img src="https://img.shields.io/badge/Expertise-Reverse%20Engineering-purple?style=for-the-badge&logo=binary" alt="Reverse Engineering Badge" />
 </div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kronosdophp&color=6E45E2&style=for-the-badge" alt="Profile Views" />
@@ -22,13 +21,40 @@
 
 <br/>
 
+## 🛡️ Cybersecurity & Hacking Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-★★★★☆-6E45E2?style=for-the-badge" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-★★★★★-6E45E2?style=for-the-badge" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-★★★★☆-6E45E2?style=for-the-badge" alt="Malware Analysis" />
+  <img src="https://img.shields.io/badge/Network%20Security-★★★★☆-6E45E2?style=for-the-badge" alt="Network Security" />
+</div>
+
+### 🔧 Tools & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/IDA%20Pro-211A1E?style=for-the-badge&logo=ida&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-FF6B6B?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp&logoColor=white" />
+</div>
+
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,cpp,mysql,bootstrap,xamarin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,cpp,mysql,bootstrap,xamarin,python,bash,linux&theme=dark" />
 </div>
 
-<br/>
+### 🔬 Specialized Skills
+- Binary Analysis & Exploitation
+- Memory Forensics
+- Vulnerability Research
+- Exploit Development
+- Reverse Engineering
+- Network Protocol Analysis
+- Malware Analysis & Research
+- Web Application Security
+- System Architecture
 
 ## 🌐 Connect with me
 

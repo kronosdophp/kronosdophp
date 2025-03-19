@@ -15,10 +15,10 @@
 <br/>
 
 <div align="center">
-
-    <img width="100%" height="200px" src="https://streak-stats.demolab.com?user=kronosdophp&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6E45E2&ring=6E45E2&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=6E45E2&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=6E45E2&excludeDaysLabel=6E45E2" alt="GitHub Streak Stats"/>
- 
+  <img width="100%" height="200px" src="https://streak-stats.demolab.com?user=kronosdophp&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6E45E2&ring=6E45E2&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=6E45E2&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=6E45E2&excludeDaysLabel=6E45E2" alt="GitHub Streak Stats"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kronosdophp&show_icons=true&count_private=true&hide_border=true&title_color=6E45E2&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0d1117" alt="Kronos's GitHub Stats" /> 
@@ -48,7 +48,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,cpp,mysql,bootstrap,python,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,cpp,mysql,bootstrap,xamarin,python,bash,linux&theme=dark" />
 </div>
 
 ### 🔬 Specialized Skills

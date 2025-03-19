@@ -14,9 +14,7 @@
 
 <br/>
 
-<div align="center">
-  <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=kronosdophp&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6E45E2&ring=6E45E2&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=6E45E2&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=6E45E2" alt="GitHub Streak Stats"/>
-</div>
+
 
 <br/>
 

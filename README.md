@@ -46,7 +46,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,cpp,mysql,bootstrap,xamarin,python,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,cpp,mysql,bootstrap,python,bash,linux&theme=dark" />
 </div>
 
 ### 🔬 Specialized Skills

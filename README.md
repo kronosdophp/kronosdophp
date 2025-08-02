@@ -1,37 +1,33 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=&fontSize=0" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header" />
   
-  <div style="position: relative; margin-top: -120px;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Gabriel" alt="Name" />
+  <br/>
+  
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=60&duration=1&pause=1000000&color=667eea&center=true&vCenter=true&width=500&height=80&lines=Gabriel" alt="Gabriel" />
+  </h1>
     
-    <br/>
-    
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=22&duration=3000&pause=500&color=E0E0E0&center=true&vCenter=true&width=600&height=60&lines=🛡️+Cybersecurity+Specialist;🔍+Reverse+Engineering+Expert;🇧🇷+Security+Researcher+from+Brazil" alt="Subtitle" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=1&pause=1000000&color=888&center=true&vCenter=true&width=600&height=40&lines=🛡️ Cybersecurity Specialist • 🔍 Reverse Engineering Expert • 🇧🇷 From Brazil" alt="Info" />
+  </p>
+  
+  <br/>
+  
+  <!-- Cards de especialidades -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/🔐_Penetration-Testing-FF6B6B?style=for-the-badge&labelColor=2C3E50" />
+    <img src="https://img.shields.io/badge/🛡️_Malware-Analysis-4ECDC4?style=for-the-badge&labelColor=2C3E50" />
+    <img src="https://img.shields.io/badge/⚙️_Reverse-Engineering-A8E6CF?style=for-the-badge&labelColor=2C3E50" />
   </div>
   
-  <br/><br/>
+  <br/>
   
-  <!-- Seção de especialidades com cards -->
-  <table align="center">
-    <tr>
-      <td align="center" width="200px">
-        <img src="https://img.shields.io/badge/🔐-PENETRATION%20TESTING-FF6B6B?style=for-the-badge&labelColor=2C3E50&color=FF6B6B" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🛡️-MALWARE%20ANALYSIS-4ECDC4?style=for-the-badge&labelColor=2C3E50&color=4ECDC4" />
-      </td>
-      <td align="center" width="200px">
-        <img src="https://img.shields.io/badge/⚙️-REVERSE%20ENGINEERING-A8E6CF?style=for-the-badge&labelColor=2C3E50&color=A8E6CF" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🌐-NETWORK%20SECURITY-FFD93D?style=for-the-badge&labelColor=2C3E50&color=FFD93D" />
-      </td>
-      <td align="center" width="200px">
-        <img src="https://img.shields.io/badge/💻-EXPLOIT%20DEVELOPMENT-B19CD9?style=for-the-badge&labelColor=2C3E50&color=B19CD9" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🔬-VULNERABILITY%20RESEARCH-F8B500?style=for-the-badge&labelColor=2C3E50&color=F8B500" />
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://img.shields.io/badge/🌐_Network-Security-FFD93D?style=for-the-badge&labelColor=2C3E50" />
+    <img src="https://img.shields.io/badge/💻_Exploit-Development-B19CD9?style=for-the-badge&labelColor=2C3E50" />
+    <img src="https://img.shields.io/badge/🔬_Vulnerability-Research-F8B500?style=for-the-badge&labelColor=2C3E50" />
+  </div>
   
 </div>
 
